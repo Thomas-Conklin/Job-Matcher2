@@ -1,0 +1,41 @@
+#paragraph{
+    background-color: teal;
+    text-align:center;
+    color:beige;
+    font-size:60px;}
+    
+
+
+
+body{
+    background-color: turquoise;
+    text-align:center;
+    color:beige;
+}
+
+form{
+    font-size:30px;
+    color:teal;
+}
+
+.container{
+background-color:teal;
+}
+
+#spanhead {
+font: 60px bold;
+}
+
+#span {
+font-size:50px;
+}
+
+.btn {
+    height:30px;
+    width:60px;
+}
+
+#button {
+    height:80px;
+    width:80px;
+}
